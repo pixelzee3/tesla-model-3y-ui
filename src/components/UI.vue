@@ -4,7 +4,7 @@ import Infotainment from './Infotainment.vue';
 import Toolbar from './Toolbar.vue';
 </script>
 <template>
-  <div class="min-w-[48rem] h-screen overflow-auto flex flex-col flex-nowrap">
+  <div class="w-screen h-screen overflow-auto flex flex-col flex-nowrap">
     <!-- UI is divided into main section and toolbar -->
 
     <!-- Main section: -->
