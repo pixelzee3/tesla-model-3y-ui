@@ -1,5 +1,5 @@
 <script setup>
-import UI from './components/UI.vue';
+import UI from './UI.vue';
 </script>
 
 <template>
