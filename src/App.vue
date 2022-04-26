@@ -3,5 +3,7 @@ import UI from './components/UI.vue';
 </script>
 
 <template>
-  <UI />
+  <div class="w-screen h-screen">
+    <UI />
+  </div>
 </template>
