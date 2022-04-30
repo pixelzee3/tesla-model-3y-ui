@@ -1,24 +1,42 @@
-# Tesla Model 3/Y UI
+# Nuxt 3 Minimal Starter
 
-## Information
-* The UI is responsive, but an 8:5 screen aspect ratio is recommended.
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
-## Project Setup
-```sh
+## Setup
+
+Make sure to install the dependencies:
+
+```bash
+# yarn
+yarn install
+
+# npm
 npm install
+
+# pnpm
+pnpm install --shamefully-hoist
 ```
 
-### Compile and Hot-Reload for Development
-```sh
+## Development Server
+
+Start the development server on http://localhost:3000
+
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
-```sh
+## Production
+
+Build the application for production:
+
+```bash
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-```sh
-npm run lint
+Locally preview production build:
+
+```bash
+npm run preview
 ```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.

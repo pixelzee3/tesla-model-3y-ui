@@ -1,8 +1,3 @@
-<script setup>
-import VehicleInfo from './VehicleInfo.vue';
-import Infotainment from './Infotainment.vue';
-import Toolbar from './Toolbar.vue';
-</script>
 <template>
   <div class="w-full h-full overflow-auto flex flex-col flex-nowrap">
     <!-- UI is divided into main section and toolbar -->
